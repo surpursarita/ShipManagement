@@ -23,7 +23,6 @@ Autofac, Autofac.Extensions.DependencyInjection
 Technologies:
 * .Net Core 3.1 Web API.
 * Autofac, Autofac.Extensions.DependencyInjection.
-* Typescript React.
 * For data store used memory, List of objects.
 * LinQ - To perform CRUD operation.
 * Unit test - Ms Test and Moq Framework
@@ -32,6 +31,7 @@ Design Patterns:
 * Dependency Injection for Loose Coupling
 
 UI:
+* React Typescript.
 * Bootstrap
 * react-grid-system
 
