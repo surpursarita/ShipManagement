@@ -7,17 +7,17 @@ This application will allow the user to perform CRUD (Create, Read, Update & Del
 ### How to setup
 To setup the ShipManagement Solution in local machine, you need to install Visual Studio 2022(With .Net Core 3.1).
 #### Prerequisites
-*Visual Studio 2022
-*npm (https://www.npmjs.com/)
-*npx (https://www.npmjs.com/package/npx)
+* Visual Studio 2022
+* npm (https://www.npmjs.com/)
+* npx (https://www.npmjs.com/package/npx)
 
 You require to add following Nugets:
 Autofac, Autofac.Extensions.DependencyInjection
 
 ### Build Task.ShipManagement Solution
-*Restore Nuget Package
-*Build Task.ShipManagement Solution
-*Click on Start or Press F5 - It will execute multiple startup projects one for HPC.Task.ShipManagement.API and another HPC.Task.ShipManagement.UI.
+* Restore Nuget Package
+* Build Task.ShipManagement Solution
+* Click on Start or Press F5 - It will execute multiple startup projects one for HPC.Task.ShipManagement.API and another HPC.Task.ShipManagement.UI.
 
 ### Design and Development Details
 Technologies:
