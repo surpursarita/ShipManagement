@@ -14,7 +14,7 @@ class ShipDataService {
         return http.post<IShipData>("/ship", data);
     }
 
-    update(data: IShipData, id: any) {
+    update(data: IShipData) {
         return http.put<any>(`/ship`, data);
     }
 
