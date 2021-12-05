@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a180b3f-15f9-4d75-9a5b-eaddc7eeccb8": {
+      "ProjectGuid": "4a180b3f-15f9-4d75-9a5b-eaddc7eeccb8",
+      "DisplayName": "HPC.Task.ShipManagement.UI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8ebe1e80-db46-4cf6-b26e-99842487cd2c": {
+      "ProjectGuid": "8ebe1e80-db46-4cf6-b26e-99842487cd2c",
+      "DisplayName": "HPC.Task.ShipManagement.API",
+      "ColorIndex": 1
+    },
+    "d6ca30b4-24b5-432c-b8a2-f9539de1d316": {
+      "ProjectGuid": "d6ca30b4-24b5-432c-b8a2-f9539de1d316",
+      "DisplayName": "HPC.Task.ShipManagement.Model",
+      "ColorIndex": 2
+    },
+    "a029021c-de96-4570-bb95-a39d681685ab": {
+      "ProjectGuid": "a029021c-de96-4570-bb95-a39d681685ab",
+      "DisplayName": "HPC.Task.ShipManagement.API.Test",
+      "ColorIndex": 3
+    },
+    "acc7c1ee-5680-4a3f-af08-0cb2a3145e24": {
+      "ProjectGuid": "acc7c1ee-5680-4a3f-af08-0cb2a3145e24",
+      "DisplayName": "HPC.Task.ShipManagement.DAL.Test",
+      "ColorIndex": 4
+    },
+    "933e6dd2-1254-4a63-b947-bb62fe3e49b1": {
+      "ProjectGuid": "933e6dd2-1254-4a63-b947-bb62fe3e49b1",
+      "DisplayName": "HPC.Task.ShipManagement.Service.Test",
+      "ColorIndex": 5
+    },
+    "d857128a-b807-476e-b9fe-4d5448a7faa1": {
+      "ProjectGuid": "d857128a-b807-476e-b9fe-4d5448a7faa1",
+      "DisplayName": "HPC.Task.ShipManagement.DAL",
+      "ColorIndex": 6
+    },
+    "3e9d88c8-c5a2-4bad-9234-b1480dbd8a75": {
+      "ProjectGuid": "3e9d88c8-c5a2-4bad-9234-b1480dbd8a75",
+      "DisplayName": "HPC.Task.ShipManagement.Service",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

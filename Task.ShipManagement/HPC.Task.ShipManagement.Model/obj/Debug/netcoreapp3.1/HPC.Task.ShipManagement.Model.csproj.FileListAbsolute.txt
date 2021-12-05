@@ -1,0 +1,10 @@
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.deps.json
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.dll
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.pdb
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.AssemblyInfoInputs.cache
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.AssemblyInfo.cs
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.csproj.CoreCompileInputs.cache
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.dll
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.pdb
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Model\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.csproj.AssemblyReference.cache

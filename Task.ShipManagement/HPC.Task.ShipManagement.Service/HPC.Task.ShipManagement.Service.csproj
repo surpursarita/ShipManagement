@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HPC.Task.ShipManagement.DAL\HPC.Task.ShipManagement.DAL.csproj" />
+    <ProjectReference Include="..\HPC.Task.ShipManagement.Model\HPC.Task.ShipManagement.Model.csproj" />
+  </ItemGroup>
+
+</Project>

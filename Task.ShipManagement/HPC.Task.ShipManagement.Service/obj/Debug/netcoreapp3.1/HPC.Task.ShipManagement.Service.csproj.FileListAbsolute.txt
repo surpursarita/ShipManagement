@@ -1,0 +1,15 @@
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.deps.json
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.dll
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.pdb
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.DAL.dll
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.dll
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.DAL.pdb
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\bin\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Model.pdb
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.csproj.AssemblyReference.cache
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.AssemblyInfoInputs.cache
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.AssemblyInfo.cs
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.csproj.CoreCompileInputs.cache
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.csproj.CopyComplete
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.dll
+C:\Saraswati\ProjectSourceCode\Projects\ShipManagement\HPC.Task.ShipManagement.Service\obj\Debug\netcoreapp3.1\HPC.Task.ShipManagement.Service.pdb

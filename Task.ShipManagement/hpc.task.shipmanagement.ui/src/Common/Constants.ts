@@ -1,0 +1,1 @@
+export const API_SERVER_PATH = 'https://localhost:44357/api/v1';
