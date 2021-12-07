@@ -10,7 +10,7 @@ To setup the ShipManagement Solution in local machine, you need to install Visua
 * Visual Studio 2022
 * npm (https://www.npmjs.com/)
 * npx (https://www.npmjs.com/package/npx)
-* Chrome, Add extension - CORS Unblock(
+* Chrome, Add extension - CORS Unblock
 
 You require to add following Nugets:
 Autofac, Autofac.Extensions.DependencyInjection
