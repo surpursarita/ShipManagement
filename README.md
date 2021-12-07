@@ -18,8 +18,10 @@ Autofac, Autofac.Extensions.DependencyInjection
 ### Build Task.ShipManagement Solution
 * Restore Nuget Package
 * Build Task.ShipManagement Solution
-* Enable this in Chrome extensions:
-![image](https://user-images.githubusercontent.com/4328579/145005221-4b237169-748d-44c3-8907-e90037e4d200.png)
+* Enable this in Chrome extension
+
+![image](https://user-images.githubusercontent.com/4328579/145005513-ff819e8d-53d5-483c-a23e-f8bd36e128d7.png)
+
 * Click on Start or Press F5 - It will execute multiple startup projects one for HPC.Task.ShipManagement.API and another HPC.Task.ShipManagement.UI.
 
 ### Design and Development Details
