@@ -2,17 +2,17 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "HPC.Task.ShipManagement.DAL/1.0.0": {
+      "Task.ShipManagement.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Task.ShipManagement.Model": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/HPC.Task.ShipManagement.DAL.dll": {}
+          "bin/placeholder/Task.ShipManagement.DAL.dll": {}
         },
         "runtime": {
-          "bin/placeholder/HPC.Task.ShipManagement.DAL.dll": {}
+          "bin/placeholder/Task.ShipManagement.DAL.dll": {}
         }
       },
       "Task.ShipManagement.Model/1.0.0": {
@@ -28,20 +28,20 @@
     }
   },
   "libraries": {
-    "HPC.Task.ShipManagement.DAL/1.0.0": {
+    "Task.ShipManagement.DAL/1.0.0": {
       "type": "project",
-      "path": "../HPC.Task.ShipManagement.DAL/HPC.Task.ShipManagement.DAL.csproj",
-      "msbuildProject": "../HPC.Task.ShipManagement.DAL/HPC.Task.ShipManagement.DAL.csproj"
+      "path": "../Task.ShipManagement.DAL/Task.ShipManagement.DAL.csproj",
+      "msbuildProject": "../Task.ShipManagement.DAL/Task.ShipManagement.DAL.csproj"
     },
     "Task.ShipManagement.Model/1.0.0": {
       "type": "project",
-      "path": "../HPC.Task.ShipManagement.Model/Task.ShipManagement.Model.csproj",
-      "msbuildProject": "../HPC.Task.ShipManagement.Model/Task.ShipManagement.Model.csproj"
+      "path": "../Task.ShipManagement.Model/Task.ShipManagement.Model.csproj",
+      "msbuildProject": "../Task.ShipManagement.Model/Task.ShipManagement.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "HPC.Task.ShipManagement.DAL >= 1.0.0",
+      "Task.ShipManagement.DAL >= 1.0.0",
       "Task.ShipManagement.Model >= 1.0.0"
     ]
   },
@@ -75,11 +75,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.DAL\\HPC.Task.ShipManagement.DAL.csproj": {
-              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.DAL\\HPC.Task.ShipManagement.DAL.csproj"
+            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.DAL\\Task.ShipManagement.DAL.csproj": {
+              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.DAL\\Task.ShipManagement.DAL.csproj"
             },
-            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj": {
-              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj"
+            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj": {
+              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj"
             }
           }
         }

@@ -1888,28 +1888,15 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "HPC.Task.ShipManagement.DAL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Task.ShipManagement.Model": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/HPC.Task.ShipManagement.DAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HPC.Task.ShipManagement.DAL.dll": {}
-        }
-      },
       "Task.ShipManagement.API/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Autofac": "6.3.0",
           "Autofac.Extensions.DependencyInjection": "7.2.0",
-          "HPC.Task.ShipManagement.DAL": "1.0.0",
           "Microsoft.AspNet.WebApi.Core": "5.2.7",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.14.0",
+          "Task.ShipManagement.DAL": "1.0.0",
           "Task.ShipManagement.Model": "1.0.0",
           "Task.ShipManagement.Service": "1.0.0"
         },
@@ -1922,6 +1909,19 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Task.ShipManagement.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Task.ShipManagement.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Task.ShipManagement.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task.ShipManagement.DAL.dll": {}
+        }
       },
       "Task.ShipManagement.Model/1.0.0": {
         "type": "project",
@@ -1937,7 +1937,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "HPC.Task.ShipManagement.DAL": "1.0.0",
+          "Task.ShipManagement.DAL": "1.0.0",
           "Task.ShipManagement.Model": "1.0.0"
         },
         "compile": {
@@ -6938,25 +6938,25 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "HPC.Task.ShipManagement.DAL/1.0.0": {
-      "type": "project",
-      "path": "../HPC.Task.ShipManagement.DAL/HPC.Task.ShipManagement.DAL.csproj",
-      "msbuildProject": "../HPC.Task.ShipManagement.DAL/HPC.Task.ShipManagement.DAL.csproj"
-    },
     "Task.ShipManagement.API/1.0.0": {
       "type": "project",
-      "path": "../HPC.Task.ShipManagement.API/Task.ShipManagement.API.csproj",
-      "msbuildProject": "../HPC.Task.ShipManagement.API/Task.ShipManagement.API.csproj"
+      "path": "../Task.ShipManagement.API/Task.ShipManagement.API.csproj",
+      "msbuildProject": "../Task.ShipManagement.API/Task.ShipManagement.API.csproj"
+    },
+    "Task.ShipManagement.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Task.ShipManagement.DAL/Task.ShipManagement.DAL.csproj",
+      "msbuildProject": "../Task.ShipManagement.DAL/Task.ShipManagement.DAL.csproj"
     },
     "Task.ShipManagement.Model/1.0.0": {
       "type": "project",
-      "path": "../HPC.Task.ShipManagement.Model/Task.ShipManagement.Model.csproj",
-      "msbuildProject": "../HPC.Task.ShipManagement.Model/Task.ShipManagement.Model.csproj"
+      "path": "../Task.ShipManagement.Model/Task.ShipManagement.Model.csproj",
+      "msbuildProject": "../Task.ShipManagement.Model/Task.ShipManagement.Model.csproj"
     },
     "Task.ShipManagement.Service/1.0.0": {
       "type": "project",
-      "path": "../HPC.Task.ShipManagement.Service/Task.ShipManagement.Service.csproj",
-      "msbuildProject": "../HPC.Task.ShipManagement.Service/Task.ShipManagement.Service.csproj"
+      "path": "../Task.ShipManagement.Service/Task.ShipManagement.Service.csproj",
+      "msbuildProject": "../Task.ShipManagement.Service/Task.ShipManagement.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7002,14 +7002,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\Task.ShipManagement.API.csproj": {
-              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\Task.ShipManagement.API.csproj"
+            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.API\\Task.ShipManagement.API.csproj": {
+              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.API\\Task.ShipManagement.API.csproj"
             },
-            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj": {
-              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj"
+            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj": {
+              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj"
             },
-            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Service\\Task.ShipManagement.Service.csproj": {
-              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Service\\Task.ShipManagement.Service.csproj"
+            "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.Service\\Task.ShipManagement.Service.csproj": {
+              "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\Task.ShipManagement.Service\\Task.ShipManagement.Service.csproj"
             }
           }
         }

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -16,9 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HPC.Task.ShipManagement.API\Task.ShipManagement.API.csproj" />
-    <ProjectReference Include="..\HPC.Task.ShipManagement.Model\Task.ShipManagement.Model.csproj" />
-    <ProjectReference Include="..\HPC.Task.ShipManagement.Service\Task.ShipManagement.Service.csproj" />
+    <ProjectReference Include="..\Task.ShipManagement.API\Task.ShipManagement.API.csproj" />
+    <ProjectReference Include="..\Task.ShipManagement.Model\Task.ShipManagement.Model.csproj" />
+    <ProjectReference Include="..\Task.ShipManagement.Service\Task.ShipManagement.Service.csproj" />
   </ItemGroup>
 
 </Project>
