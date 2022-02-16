@@ -1,9 +1,9 @@
-using HPC.Task.ShipManagement.DAL.Implementation;
-using HPC.Task.ShipManagement.Model;
+using Task.ShipManagement.DAL.Implementation;
+using Task.ShipManagement.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace HPC.Task.ShipManagement.DAL.Test
+namespace Task.ShipManagement.DAL.Test
 {
     [TestClass]
     public class ShipRepositoryTest

@@ -1,11 +1,11 @@
-﻿using HPC.Task.ShipManagement.DAL.Interface;
-using HPC.Task.ShipManagement.Model;
+﻿using Task.ShipManagement.DAL.Interface;
+using Task.ShipManagement.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace HPC.Task.ShipManagement.DAL.Implementation
+namespace Task.ShipManagement.DAL.Implementation
 {
     public class ShipRepository : IShipRepository
     {

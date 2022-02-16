@@ -1,8 +1,8 @@
-﻿using HPC.Task.ShipManagement.Model;
+﻿using Task.ShipManagement.Model;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace HPC.Task.ShipManagement.Service.Interface
+namespace Task.ShipManagement.Service.Interface
 {
     public interface IShipService
     {

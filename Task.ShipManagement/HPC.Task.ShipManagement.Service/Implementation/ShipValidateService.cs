@@ -1,8 +1,8 @@
-﻿using HPC.Task.ShipManagement.Model;
-using HPC.Task.ShipManagement.Service.Interface;
+﻿using Task.ShipManagement.Model;
+using Task.ShipManagement.Service.Interface;
 using System.Text.RegularExpressions;
 
-namespace HPC.Task.ShipManagement.Service.Implementation
+namespace Task.ShipManagement.Service.Implementation
 {
     public class ShipValidateService : IShipValidateService
     {

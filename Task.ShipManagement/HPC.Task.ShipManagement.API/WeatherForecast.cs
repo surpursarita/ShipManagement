@@ -1,6 +1,6 @@
 using System;
 
-namespace HPC.Task.ShipManagement.API
+namespace Task.ShipManagement.API
 {
     public class WeatherForecast
     {

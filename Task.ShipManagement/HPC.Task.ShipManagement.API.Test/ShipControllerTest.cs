@@ -1,6 +1,6 @@
-using HPC.Task.ShipManagement.API.Controllers;
-using HPC.Task.ShipManagement.Model;
-using HPC.Task.ShipManagement.Service.Interface;
+using Task.ShipManagement.API.Controllers;
+using Task.ShipManagement.Model;
+using Task.ShipManagement.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Net.Http;
 
-namespace HPC.Task.ShipManagement.API.Test
+namespace Task.ShipManagement.API.Test
 {
     [TestClass]
     public class ShipControllerTest

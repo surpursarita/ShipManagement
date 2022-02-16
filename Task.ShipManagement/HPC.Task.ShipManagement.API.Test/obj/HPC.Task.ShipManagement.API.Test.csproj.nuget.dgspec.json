@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\HPC.Task.ShipManagement.API.csproj": {
-                "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\HPC.Task.ShipManagement.API.csproj"
+              "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\Task.ShipManagement.API.csproj": {
+                "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\Task.ShipManagement.API.csproj"
               },
               "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\HPC.Task.ShipManagement.Model.csproj": {
                 "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\HPC.Task.ShipManagement.Model.csproj"
@@ -93,16 +93,16 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\HPC.Task.ShipManagement.API.csproj": {
+    "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\Task.ShipManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\HPC.Task.ShipManagement.API.csproj",
-        "projectName": "HPC.Task.ShipManagement.API",
-        "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\HPC.Task.ShipManagement.API.csproj",
+        "projectUniqueName": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\Task.ShipManagement.API.csproj",
+        "projectName": "Task.ShipManagement.API",
+        "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\Task.ShipManagement.API.csproj",
         "packagesPath": "C:\\Users\\ssurpur\\.nuget\\packages\\",
         "outputPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.API\\obj\\",
         "projectStyle": "PackageReference",
@@ -181,7 +181,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -242,7 +242,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -299,7 +299,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -363,7 +363,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,10 @@
-﻿using HPC.Task.ShipManagement.DAL.Interface;
-using HPC.Task.ShipManagement.Model;
-using HPC.Task.ShipManagement.Service.Interface;
+﻿using Task.ShipManagement.DAL.Interface;
+using Task.ShipManagement.Model;
+using Task.ShipManagement.Service.Interface;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace HPC.Task.ShipManagement.Service.Implementation
+namespace Task.ShipManagement.Service.Implementation
 {
     public class ShipService : IShipService
     {

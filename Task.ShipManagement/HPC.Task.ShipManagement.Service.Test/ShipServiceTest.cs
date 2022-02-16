@@ -1,12 +1,12 @@
-using HPC.Task.ShipManagement.DAL.Interface;
-using HPC.Task.ShipManagement.Model;
-using HPC.Task.ShipManagement.Service.Implementation;
+using Task.ShipManagement.DAL.Interface;
+using Task.ShipManagement.Model;
+using Task.ShipManagement.Service.Implementation;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using System;
 using System.Collections.Generic;
 
-namespace HPC.Task.ShipManagement.Service.Test
+namespace Task.ShipManagement.Service.Test
 {
     [TestClass]
     public class ShipServiceTest

@@ -1,12 +1,12 @@
 ﻿using Autofac;
-using HPC.Task.ShipManagement.DAL.Implementation;
-using HPC.Task.ShipManagement.DAL.Interface;
-using HPC.Task.ShipManagement.Service.Implementation;
-using HPC.Task.ShipManagement.Service.Interface;
+using Task.ShipManagement.DAL.Implementation;
+using Task.ShipManagement.DAL.Interface;
+using Task.ShipManagement.Service.Implementation;
+using Task.ShipManagement.Service.Interface;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace HPC.Task.ShipManagement.API.Configuration
+namespace Task.ShipManagement.API.Configuration
 {
     public class ServiceRegistrationModule : Module
     {

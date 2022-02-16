@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\HPC.Task.ShipManagement.Model.csproj",
-      "projectName": "HPC.Task.ShipManagement.Model",
-      "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\HPC.Task.ShipManagement.Model.csproj",
+      "projectUniqueName": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj",
+      "projectName": "Task.ShipManagement.Model",
+      "projectPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\Task.ShipManagement.Model.csproj",
       "packagesPath": "C:\\Users\\ssurpur\\.nuget\\packages\\",
       "outputPath": "C:\\Saraswati\\ProjectSourceCode\\Projects\\ShipManagement\\Task.ShipManagement\\HPC.Task.ShipManagement.Model\\obj\\",
       "projectStyle": "PackageReference",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

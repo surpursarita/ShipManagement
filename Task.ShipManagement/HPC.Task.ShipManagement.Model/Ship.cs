@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace HPC.Task.ShipManagement.Model
+namespace Task.ShipManagement.Model
 {
     public class Ship : BaseObject
     {   

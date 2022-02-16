@@ -1,6 +1,6 @@
-﻿using HPC.Task.ShipManagement.Model;
+﻿using Task.ShipManagement.Model;
 
-namespace HPC.Task.ShipManagement.Service.Interface
+namespace Task.ShipManagement.Service.Interface
 {
     public interface IShipValidateService
     {

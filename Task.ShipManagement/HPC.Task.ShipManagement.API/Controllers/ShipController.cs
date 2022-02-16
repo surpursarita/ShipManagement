@@ -1,5 +1,5 @@
-﻿using HPC.Task.ShipManagement.Model;
-using HPC.Task.ShipManagement.Service.Interface;
+﻿using Task.ShipManagement.Model;
+using Task.ShipManagement.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using System.Web.Http;
@@ -9,7 +9,7 @@ using HttpPostAttribute = Microsoft.AspNetCore.Mvc.HttpPostAttribute;
 using HttpPutAttribute = Microsoft.AspNetCore.Mvc.HttpPutAttribute;
 using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 
-namespace HPC.Task.ShipManagement.API.Controllers
+namespace Task.ShipManagement.API.Controllers
 {
     [Route("api/v1/[controller]")]    
     public class ShipController : ApiController

@@ -2,7 +2,7 @@ using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace HPC.Task.ShipManagement.API
+namespace Task.ShipManagement.API
 {
     public class Program
     {

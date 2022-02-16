@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "HPC.Task.ShipManagement.API": {
+    "Task.ShipManagement.API": {
       "commandName": "Project",
       "launchBrowser": false,
       "launchUrl": "api/v1/Ship/GetShips",

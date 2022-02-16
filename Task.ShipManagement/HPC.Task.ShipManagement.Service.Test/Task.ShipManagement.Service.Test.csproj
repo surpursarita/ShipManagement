@@ -16,7 +16,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HPC.Task.ShipManagement.DAL\HPC.Task.ShipManagement.DAL.csproj" />
-    <ProjectReference Include="..\HPC.Task.ShipManagement.Model\HPC.Task.ShipManagement.Model.csproj" />
+    <ProjectReference Include="..\HPC.Task.ShipManagement.Model\Task.ShipManagement.Model.csproj" />
+    <ProjectReference Include="..\HPC.Task.ShipManagement.Service\Task.ShipManagement.Service.csproj" />
   </ItemGroup>
 
 </Project>

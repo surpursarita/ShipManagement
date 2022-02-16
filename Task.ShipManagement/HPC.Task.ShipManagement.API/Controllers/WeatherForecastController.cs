@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace HPC.Task.ShipManagement.API.Controllers
+namespace Task.ShipManagement.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
