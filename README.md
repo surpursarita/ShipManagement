@@ -22,7 +22,7 @@ Autofac, Autofac.Extensions.DependencyInjection
 
 ![image](https://user-images.githubusercontent.com/4328579/145005513-ff819e8d-53d5-483c-a23e-f8bd36e128d7.png)
 
-* Click on Start or Press F5 - It will execute multiple startup projects one for HPC.Task.ShipManagement.API and another HPC.Task.ShipManagement.UI.
+* Click on Start or Press F5 - It will execute multiple startup projects one for Task.ShipManagement.API and another Task.ShipManagement.UI.
 
 ### Design and Development Details
 Technologies:
@@ -41,6 +41,6 @@ UI:
 * react-grid-system
 
 ### Unit Test Cases
-* HPC.Task.ShipManagement.API.Test
-* HPC.Task.ShipManagement.Service.Test
-* HPC.Task.ShipManagement.DAL.Test
+* Task.ShipManagement.API.Test
+* Task.ShipManagement.Service.Test
+* Task.ShipManagement.DAL.Test
